@@ -1,0 +1,11 @@
+I have always had a love for understanding how things work! Since I can remember I have been wowed by how all those tiny electronic components in things like stereos and computers come together to satiate my desire for music, entertainment and more. 
+
+During my journey to becoming a Master Electrician I have seen how technology has evolved and how it has become an integral part of our day to day lives - IOT springs to mind. This, as well as a failed firmware update (let me know if you'd like to hear the full story 😉) has started me down the path of tech with a passion for discovery that continues to grow daily. 
+
+As an apprentice electrician I learned how to have an eagle eye for detail, how to work to deadlines as well as gaining an awareness of how much bigger the world was than my tiny little pond at the center of my universe. As the director of Velocity Electrical Ltd I've honed my Q.S skills (a must if you're to stay in business!!), learned how to communicate with a diverse community of my peers and even realized some self-learned points of difference that set me apart from my competitors such as the following question I'd always ask myself when first meeting a client or scoping a new job - What is my client trying to achieve and how can I facilitate that within their budget at a level that I'd not only be happy to put my name on but also be an outcome that I'd be personally satisfied with.
+
+My passion to unravel the mysteries of connected and embedded IOT devices led me to discover a passion AND a patience for the Linux operating system. Working with shell script via the terminal while indulging this passion in the year leading up to my discovery of take2 has been a great help for my learning journey as it has helped me navigate the iOS operating system confidently while also helping me use git in a more competent fashion.
+
+Take2 has not only been a blessing to my coding ability but has also helped me grow as person which helps me confidently navigate the sometimes tumultuous waters of life with more mana and a better understanding of people around me. Take2 has prepared me to be an asset that your company needs. 
+
+Call me.
