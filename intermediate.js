@@ -41,3 +41,10 @@
 // let nonFoodItems = groceryItems.slice( 3 );
 // console.log( "Food Items", foodItems );
 // console.log( "Non Food Items", nonFoodItems );
+
+// || Trip Cost Calculator
+// let tripMilelage = prompt( "Enter the total miles of your trip", '"e.g., 100"' );
+// let fuelEfficiency = prompt( "Enter the miles per gallon of your vehicle", '"e.g., 10"' );
+// let fuelPrice = prompt( "Enter the current price per gallon for fuel", '"e.g., 12"' );
+// let totalTripCost = ( tripMilelage / fuelEfficiency ) * fuelPrice;
+// console.log( totalTripCost );
