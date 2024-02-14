@@ -34,3 +34,10 @@
 //   let newTemperature = convertedTemperature + "C";
 //   console.log( newTemperature );
 // }
+
+// || Grocery List Sorter
+// const groceryItems = [ "milk", "bread", "apples", "shampoo" ];
+// let foodItems = groceryItems.slice( 0, 3 );
+// let nonFoodItems = groceryItems.slice( 3 );
+// console.log( "Food Items", foodItems );
+// console.log( "Non Food Items", nonFoodItems );
